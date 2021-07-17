@@ -8,15 +8,15 @@
 4) Build and train RNNs, work with NLP and Word Embeddings, and use HuggingFace tokenizers and transformer models to perform NER and Question Answering
 
 # SKILLS WILL GAIN
-Artificial Neural Network  
-Convolutional Neural Network  
-Tensorflow  
-Recurrent Neural Network  
-Transformers  
-Deep Learning  
-Backpropagation  
-Python Programming  
-Neural Network Architecture  
-Mathematical Optimization  
-hyperparameter tuning  
-Inductive Transfer  
+1.Artificial Neural Network  
+2.Convolutional Neural Network  
+3.Tensorflow  
+4.Recurrent Neural Network  
+5.Transformers  
+6.Deep Learning  
+7.Backpropagation  
+8.Python Programming  
+9.Neural Network Architecture  
+10.Mathematical Optimization  
+11.Hyperparameter tuning  
+12.Inductive Transfer  
