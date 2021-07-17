@@ -7,7 +7,7 @@
 
 4) Build and train RNNs, work with NLP and Word Embeddings, and use HuggingFace tokenizers and transformer models to perform NER and Question Answering
 
-# SKILLS YOU WILL GAIN
+# SKILLS WILL GAIN
 Artificial Neural Network  
 Convolutional Neural Network  
 Tensorflow  
